@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/101123246/157922530-742d6a36-0fcf-40e1-9203-19e34bc5434c.png)
 
 -- Interactive plotting via plotly (Confidential information removed)
-![biplot](https://user-images.githubusercontent.com/101123246/157923639-8f7903f2-e833-4c68-8d47-e3e5c651367d.png)
+![biplot](https://user-images.githubusercontent.com/101123246/157923930-97dd574f-d3eb-4619-a3c9-1c508fda8e99.png)
 
 - Screeplot
 ![image](https://user-images.githubusercontent.com/101123246/157923102-b4a9c034-8fd2-4216-83f4-dcb2d30be6dd.png)
