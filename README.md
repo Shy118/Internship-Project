@@ -1,4 +1,4 @@
-# Internship-Project
+# Internship-Project (GlobalFounries Singapore)
 ## Scope
 
 ### Visualizations using Principal Component Analysis (PCA)
