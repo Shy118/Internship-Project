@@ -2813,8 +2813,7 @@ class Ui(QWidget):
                     self.Biplot_loc.append(f'Biplot{x}{y}')
                     n += 1
         self.analysis_count = self.analysis_count + 1
-        
-        
+           
     def DataQueryUi(self):
         # UI function display the Data Query Selection Menu
         # Called from SetupUi()
